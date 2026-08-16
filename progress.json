@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-09-22T03:29:26.315Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-08-16T16:09:08.197Z",
+      "last_pushed_at": "2026-08-16T16:09:08.197Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-08-16T16:11:17.718Z",
+      "last_pushed_at": "2026-08-16T16:11:17.718Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-08-16T16:12:45.788Z",
+      "last_pushed_at": "2026-08-16T16:12:45.788Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:237": {
+      "kind": "problem",
+      "id": "237",
+      "title": "Convert RGB Image to Grayscale",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/237",
+      "path": "problems/0237-convert-rgb-image-to-grayscale",
+      "first_solved_at": "2026-08-16T21:42:56.273Z",
+      "last_pushed_at": "2026-08-16T21:42:56.273Z",
+      "language": "python",
+      "lines": 35
+    }
+  }
+}

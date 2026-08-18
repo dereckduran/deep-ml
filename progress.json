@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:29:26.315Z",
+  "generated_at": "2026-09-22T03:29:28.123Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -52,6 +52,32 @@
       "last_pushed_at": "2026-08-16T21:42:56.273Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:800": {
+      "kind": "problem",
+      "id": "800",
+      "title": "Learning Curve Generator for Bias-Variance Diagnosis",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/800",
+      "path": "problems/0800-learning-curve-generator-for-bias-variance-diagnosis",
+      "first_solved_at": "2026-08-18T03:36:28.323Z",
+      "last_pushed_at": "2026-08-18T03:36:28.323Z",
+      "language": "python",
+      "lines": 55
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-08-18T15:11:29.214Z",
+      "last_pushed_at": "2026-08-18T15:11:29.214Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }

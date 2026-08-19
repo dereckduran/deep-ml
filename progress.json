@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:29:28.123Z",
+  "generated_at": "2026-09-22T03:29:29.642Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-08-18T15:11:29.214Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:199": {
+      "kind": "problem",
+      "id": "199",
+      "title": "Early Stopping Based on Validation Loss Plateau",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/199",
+      "path": "problems/0199-early-stopping-based-on-validation-loss-plateau",
+      "first_solved_at": "2026-08-19T01:40:43.340Z",
+      "last_pushed_at": "2026-08-19T01:40:43.340Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }

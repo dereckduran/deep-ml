@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:29:29.642Z",
+  "generated_at": "2026-09-22T03:29:31.241Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,52 @@
       "last_pushed_at": "2026-08-19T01:40:43.340Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-09-06T01:17:55.572Z",
+      "last_pushed_at": "2026-09-06T01:17:55.572Z",
+      "language": "python",
+      "lines": 1
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-09-06T13:15:56.568Z",
+      "last_pushed_at": "2026-09-06T13:15:56.568Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-06T13:18:35.195Z",
+      "last_pushed_at": "2026-09-06T13:18:35.195Z"
+    },
+    "math:23": {
+      "kind": "math",
+      "id": "23",
+      "title": "Law of Large Numbers and Central Limit Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/23",
+      "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
+      "first_solved_at": "2026-09-06T13:43:02.662Z",
+      "last_pushed_at": "2026-09-06T13:43:02.662Z"
     }
   }
 }

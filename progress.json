@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:29:31.241Z",
+  "generated_at": "2026-09-22T03:29:32.797Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -137,6 +137,45 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-09-06T13:43:02.662Z",
       "last_pushed_at": "2026-09-06T13:43:02.662Z"
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-13T18:43:15.181Z",
+      "last_pushed_at": "2026-09-13T18:43:15.181Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-13T20:51:15.453Z",
+      "last_pushed_at": "2026-09-13T20:51:15.453Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:1219": {
+      "kind": "problem",
+      "id": "1219",
+      "title": "One Training Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1219",
+      "path": "problems/1219-one-training-step",
+      "first_solved_at": "2026-09-13T23:14:28.832Z",
+      "last_pushed_at": "2026-09-13T23:14:28.832Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }

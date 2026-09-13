@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 8 problems · 0 labs · 3 math
+**14** solved · 11 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,10 +16,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-08-16 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-08-18 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-08-19 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-13 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-13 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-16 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-16 | [solution](problems/0003-reshape-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-16 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-08-18 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-13 | [solution](problems/1219-one-training-step) |
 
 ## Math
 

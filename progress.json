@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:29:35.884Z",
+  "generated_at": "2026-09-22T03:29:37.389Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -200,6 +200,58 @@
       "path": "problems/0025-single-neuron-with-backpropagation",
       "first_solved_at": "2026-09-15T02:10:51.032Z",
       "last_pushed_at": "2026-09-15T02:10:51.032Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-17T02:15:36.694Z",
+      "last_pushed_at": "2026-09-17T02:15:36.694Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-17T02:16:54.970Z",
+      "last_pushed_at": "2026-09-17T02:16:54.970Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-09-17T02:25:22.321Z",
+      "last_pushed_at": "2026-09-17T02:25:22.321Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-09-17T14:19:28.639Z",
+      "last_pushed_at": "2026-09-17T14:19:28.639Z",
       "language": "python",
       "lines": 1
     }

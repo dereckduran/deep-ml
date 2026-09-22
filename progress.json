@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:29:40.531Z",
+  "generated_at": "2026-09-22T03:29:42.135Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -114,7 +114,7 @@
       "url": "https://www.deep-ml.com/math-problems/26",
       "path": "math/0026-maximum-likelihood-and-map",
       "first_solved_at": "2026-09-06T13:15:56.568Z",
-      "last_pushed_at": "2026-09-06T13:15:56.568Z"
+      "last_pushed_at": "2026-09-22T03:29:42.134Z"
     },
     "math:5": {
       "kind": "math",
@@ -125,7 +125,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-06T13:18:35.195Z",
-      "last_pushed_at": "2026-09-06T13:18:35.195Z"
+      "last_pushed_at": "2026-09-22T03:29:42.134Z"
     },
     "math:23": {
       "kind": "math",
@@ -136,7 +136,7 @@
       "url": "https://www.deep-ml.com/math-problems/23",
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-09-06T13:43:02.662Z",
-      "last_pushed_at": "2026-09-06T13:43:02.662Z"
+      "last_pushed_at": "2026-09-22T03:29:42.134Z"
     },
     "problem:14": {
       "kind": "problem",

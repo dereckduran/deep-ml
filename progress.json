@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:36:39.292Z",
+  "generated_at": "2026-09-27T22:37:49.529Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -302,6 +302,19 @@
       "path": "math/0002-multivariate-calculus",
       "first_solved_at": "2026-09-27T22:36:36.719Z",
       "last_pushed_at": "2026-09-27T22:36:36.719Z"
+    },
+    "problem:490": {
+      "kind": "problem",
+      "id": "490",
+      "title": "Build Scaled Dot-Product Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/490",
+      "path": "problems/0490-build-scaled-dot-product-attention",
+      "first_solved_at": "2026-09-22T16:14:53.288Z",
+      "last_pushed_at": "2026-09-22T16:14:53.288Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

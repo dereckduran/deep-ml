@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:37:51.354Z",
+  "generated_at": "2026-09-27T22:37:53.690Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -328,6 +328,45 @@
       "last_pushed_at": "2026-09-24T00:42:14.857Z",
       "language": "python",
       "lines": 1
+    },
+    "problem:222": {
+      "kind": "problem",
+      "id": "222",
+      "title": "LoRA: Low-Rank Adaptation Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/222",
+      "path": "problems/0222-lora-low-rank-adaptation-forward-pass",
+      "first_solved_at": "2026-09-26T19:50:49.806Z",
+      "last_pushed_at": "2026-09-26T19:50:49.806Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:380": {
+      "kind": "problem",
+      "id": "380",
+      "title": "Byte Pair Encoding (BPE) Tokenizer",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/380",
+      "path": "problems/0380-byte-pair-encoding-bpe-tokenizer",
+      "first_solved_at": "2026-09-26T22:30:24.762Z",
+      "last_pushed_at": "2026-09-26T22:30:24.762Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:223": {
+      "kind": "problem",
+      "id": "223",
+      "title": "QLoRA: Quantized Low-Rank Adaptation Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/223",
+      "path": "problems/0223-qlora-quantized-low-rank-adaptation-forward-pass",
+      "first_solved_at": "2026-09-26T23:58:27.289Z",
+      "last_pushed_at": "2026-09-26T23:58:27.289Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }

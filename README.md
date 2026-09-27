@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 19 problems · 0 labs · 4 math
+**24** solved · 19 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-27 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-06 | [solution](math/0005-gradient-descent-updates) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-09-06 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
+| [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-09-27 | [solution](math/0002-multivariate-calculus) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-06 | [solution](math/0026-maximum-likelihood-and-map) |
 
 ---

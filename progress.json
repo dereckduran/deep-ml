@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:27:59.067Z",
+  "generated_at": "2026-09-28T00:04:45.616Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -430,6 +430,19 @@
       "path": "problems/0041-simple-convolutional-2d-layer",
       "first_solved_at": "2026-09-27T22:43:48.135Z",
       "last_pushed_at": "2026-09-27T22:43:48.135Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-09-27T23:38:07.710Z",
+      "last_pushed_at": "2026-09-27T23:38:07.710Z",
       "language": "python",
       "lines": 1
     }

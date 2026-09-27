@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 29 problems · 0 labs · 5 math
+**35** solved · 30 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-22 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-09-26 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-09-27 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-27 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-27 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-17 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-22 | [solution](problems/0054-implementing-a-simple-rnn) |

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 30 problems · 0 labs · 5 math
+**36** solved · 31 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-22 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-27 | [solution](problems/0017-k-means-clustering) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-08-18 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [Longest Substring / Subarray with Two Pointers](https://www.deep-ml.com/problems/1148) | medium | 2026-09-28 | [solution](problems/1148-longest-substring-subarray-with-two-pointers) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-26 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-13 | [solution](problems/1219-one-training-step) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-26 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |

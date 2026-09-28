@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:04:45.616Z",
+  "generated_at": "2026-09-28T15:18:32.267Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -445,6 +445,19 @@
       "last_pushed_at": "2026-09-27T23:38:07.710Z",
       "language": "python",
       "lines": 1
+    },
+    "problem:1148": {
+      "kind": "problem",
+      "id": "1148",
+      "title": "Longest Substring / Subarray with Two Pointers",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1148",
+      "path": "problems/1148-longest-substring-subarray-with-two-pointers",
+      "first_solved_at": "2026-09-28T15:17:42.035Z",
+      "last_pushed_at": "2026-09-28T15:17:42.035Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
